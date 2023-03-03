@@ -14,7 +14,8 @@ public class Lab {
      * @param b some decimal number
      * @return a minus b
      */
-    public double sub(double a, double b){
-        return 0;
+    public double sub(double a, double b)
+    {
+        return (a - b);
     }
 }
